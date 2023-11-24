@@ -1,4 +1,4 @@
-# RSA_Algoo
+# Parallel RSA Algorithm
 This Project Encryption transforms plaintext into ciphertext using cryptographic keys for secure data transfer; integrating multithreading with RSA aims to optimize its performance without altering its fundamental characteristics.
 Encryption serves as a vital method to encode data, ensuring that only authorized individuals possess the means to decipher it. This process involves the conversion of human-readable plaintext into an enigmatic form known as ciphertext, a technical term in the realm of data security.
 
